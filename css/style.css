@@ -7,14 +7,12 @@
     font-weight:bold;
 }
 .basic-layout-2{
-    text-align: center;
     font-weight: bold;
     font-size: 30px;
 }
   
   #chicken{
       display: block;
-      text-align: center;
         font-weight:bold;
         font-size: 20px;
 
